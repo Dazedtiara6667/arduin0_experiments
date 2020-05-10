@@ -1,6 +1,19 @@
 
 # arduin0_experiments
 List of experiments performed by me using arduino board
+
+## About Arduino ##
+Arduino is basically a microcontroller actually two one is the Atmega 328 the other one is for programming the bootloader.The arduino is an open source project so we can design the arduino board ourselves.Actually Arduino's clock speed is low so the only way the user can communicate with arduino is through Serial monitor.Arduino doesn't support any operating system.Arduino has 20 pins out of which some are analog some is for voltage,for ground etc.
+
+## Sensors ##
+Sensors are something that are very important in IoT.So they sense things based on which the actuators do something.Sensors can be Voltage based or Resistance based.
+
+## Actuators ##
+Actuators are used to do things based on what is sensed from the sensor.A simple example of a actuator is an LED,servo.
+
+
+
+
 ## First Experiment ##
 A simple circuit in which two led blink within a gap of one second.
 ![first_experiment](https://user-images.githubusercontent.com/53506835/78364435-0f1bf700-75db-11ea-9b88-75977d02d045.png)
