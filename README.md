@@ -1,5 +1,5 @@
 
-# arduin0_experiments
+# arduin0_experiments :raised_eyebrow::smirk:
 List of experiments performed by me using arduino board
 
 ## About Arduino ##
@@ -39,10 +39,11 @@ Simple program on using serial momitor
 Learning how to use 74HC595 register
 ![Circuits Terrific Trug _ Tinkercad - Google Chrome 5_5_2020 11_33_23 AM (2)](https://user-images.githubusercontent.com/53506835/81501333-75401c00-92f5-11ea-8f22-b41682cd98d4.png)
 ## :one::zero: ##
+Binary counter using 74HC595
 ![Circuits Terrific Trug _ Tinkercad - Google Chrome 5_5_2020 2_28_53 PM (2)](https://user-images.githubusercontent.com/53506835/81501352-8d17a000-92f5-11ea-8f1c-25963d623fda.png)
 
 
-Binary counter using 74HC595
+
 ## :one::one: ##
 Using photoresisitor to control a servo
 ![Epic Kasi-Kup _ Tinkercad - Google Chrome 5_10_2020 5_48_15 PM (2)](https://user-images.githubusercontent.com/53506835/81501299-4e81e580-92f5-11ea-9c22-f1e9ed5d2458.png)
