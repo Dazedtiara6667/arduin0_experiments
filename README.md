@@ -28,7 +28,7 @@ By the help of Potentiometer which acts as a sensor when we rotate the knob on p
 ![Document - Google Chrome 4_15_2020 5_08_26 AM (2)](https://user-images.githubusercontent.com/53506835/79300833-83249c00-7f05-11ea-8cc6-7776f3eece47.png)
 By the help of Potentiometer which acts as a sensor when we rotate the knob on potentiometer the light glows brighter or dimmer according 
 ## :five: ##
-Using photoresistor to turn on or turn off LED
+Using photoresistor to turn on or turn off LEDs
 ## :six: ##
 Using photoresistor to control LED and buzzers.
 ## :seven: ##
